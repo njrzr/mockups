@@ -1,4 +1,8 @@
-*/node_modules
-*/package.json
-*/package-lock.json
-*/.editorconfig
+mockup_celebrity/node_modules
+mockup_celebrity/package.json
+mockup_celebrity/package-lock.json
+mockup_celebrity/.editorconfig
+mockup_landing/node_modules
+mockup_landing/package.json
+mockup_landing/package-lock.json
+mockup_landing/.editorconfig
