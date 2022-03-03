@@ -5,7 +5,6 @@
 */.prettierignore
 */.prettierrc.json
 mockup_landing/images/*.jpg
-mockup_landing/images/*.jpeg
 mockup_landing/images/*.png
 mockup_landing/postcss.config.js
 mockup_landing/tailwind.config.js
