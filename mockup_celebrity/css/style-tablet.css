@@ -1,0 +1,46 @@
+@media screen and (max-width: 1200px) {
+  #hero-banner {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-areas:
+      "banner01 banner01"
+      "banner02 banner03"
+      "banner04 banner05";
+  }
+
+  .desc {
+    font-size: 0.7em;
+  }
+
+  #photo-reel {
+    width: 550px;
+  }
+
+  #previous-button,
+  #next-button {
+    background: #ffffff88;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    padding: 10px;
+    top: 0;
+    bottom: 0;
+  }
+
+  #merchandise {
+    position: relative;
+    width: 100%;
+    background: #c0c0c0;
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-areas:
+      "merc-title merc-title merc-title"
+      "cds cds cds"
+      "cd01 cd02 cd03"
+      "cd04 cd05 ."
+      "apparel apparel apparel"
+      "apparel01 apparel02 apparel03"
+      "apparel04 apparel05 .";
+  }
+}

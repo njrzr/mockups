@@ -1,0 +1,27 @@
+{
+  "name": "mockup_celebrity",
+  "version": "1.0.0",
+  "description": "Maqueta para una pagina de celebridad.",
+  "main": "javascript/index.js",
+  "dependencies": {
+    "prettier": "^2.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "mockup",
+    "celebrity",
+    "landing"
+  ],
+  "author": "Orlando Pernia",
+  "license": "ISC"
+}
