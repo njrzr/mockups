@@ -5,4 +5,6 @@ mockup_celebrity/.editorconfig
 mockup_landing/node_modules
 mockup_landing/package.json
 mockup_landing/package-lock.json
+mockup_landing/postcss.config.js
+mockup_landing/tailwind.config.js
 mockup_landing/.editorconfig
